@@ -17,7 +17,7 @@
           target="_blank"
           class="button--grey"
         >
-          GitHub
+          GitHubx
         </a>
       </div>
     </div>
